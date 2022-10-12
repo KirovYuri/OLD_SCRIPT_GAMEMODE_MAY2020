@@ -1,0 +1,11 @@
+c:\Users\client\Desktop\NPRP GM UPDATE\gamemodes\nprp.pwn(79388) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+c:\Users\client\Desktop\NPRP GM UPDATE\gamemodes\nprp.pwn(79401) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+c:\Users\client\Desktop\NPRP GM UPDATE\gamemodes\nprp.pwn(79414) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+c:\Users\client\Desktop\NPRP GM UPDATE\gamemodes\nprp.pwn(79427) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+c:\Users\client\Desktop\NPRP GM UPDATE\gamemodes\nprp.pwn(79447) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+c:\Users\client\Desktop\NPRP GM UPDATE\gamemodes\nprp.pwn(79453) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+c:\Users\client\Desktop\NPRP GM UPDATE\gamemodes\nprp.pwn(79460) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+c:\Users\client\Desktop\NPRP GM UPDATE\gamemodes\nprp.pwn(79473) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+c:\Users\client\Desktop\NPRP GM UPDATE\gamemodes\nprp.pwn(79486) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2017, ITB CompuPhase
+
